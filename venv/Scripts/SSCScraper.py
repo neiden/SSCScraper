@@ -3,8 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 
 payload = {
-    'username': 'Westernwaste',
-    'password': 'sustainwwu',
+    'username': 'placeholder',
+    'password': 'placeholder',
     '__RequestVerificationToken': 'logindata'
 }
 
